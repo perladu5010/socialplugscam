@@ -44,7 +44,7 @@ econsumer.gov - Cross-border fraud report.
 🤝 Join the Collective
 If you have been scammed by SocialPlug:
 
-Submit Evidence: Visit socialplugarchive.com/submit
+Submit Evidence: Visit [socialplugarchive.com/submit](https://www.socialplugarchive.com/submit-report)
 
 Open an Issue: Post your order ID and stalling pattern in the Issues tab of this repo.
 
